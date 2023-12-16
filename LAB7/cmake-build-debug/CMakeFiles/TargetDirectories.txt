@@ -1,0 +1,3 @@
+/Users/aleklyskawa/Desktop/C++/pprog/LAB7/cmake-build-debug/CMakeFiles/LAB7.dir
+/Users/aleklyskawa/Desktop/C++/pprog/LAB7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleklyskawa/Desktop/C++/pprog/LAB7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

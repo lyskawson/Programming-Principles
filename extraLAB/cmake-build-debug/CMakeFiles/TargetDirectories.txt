@@ -1,0 +1,3 @@
+/Users/aleklyskawa/Desktop/C++/pprog/extraLAB/cmake-build-debug/CMakeFiles/extraLAB.dir
+/Users/aleklyskawa/Desktop/C++/pprog/extraLAB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleklyskawa/Desktop/C++/pprog/extraLAB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
